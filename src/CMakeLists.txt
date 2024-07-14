@@ -1,0 +1,8 @@
+add_subdirectory(parser)
+add_subdirectory(common)
+add_subdirectory(logging)
+add_subdirectory(run_lib)
+add_subdirectory(lightir)
+add_subdirectory(SysY)
+add_subdirectory(codegen)
+add_subdirectory(passes)
